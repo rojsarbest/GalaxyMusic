@@ -5,7 +5,7 @@
 # Available on telegram as @GalaxyMusicPlaybot
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="khttps://telegra.ph/file/dd0k4b1968f1bc1169d162.jpg">
 </p>
 
 <h2> Whats new 🔥 </h2>
