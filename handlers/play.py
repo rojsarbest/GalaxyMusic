@@ -172,7 +172,7 @@ async def playlist(client, message):
 
 def updated_stats(chat, queue, vol=100):
     if chat.id in callsmusic.pytgcalls.active_calls:
-    if chat.id in active_chats:
+   #if chat.id in active_chats:
         stats = 'Settings of **{}**'.format(chat.title)
         if len(que) > 0:
             stats += '\n\n'
