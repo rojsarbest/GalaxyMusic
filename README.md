@@ -29,7 +29,7 @@
 - `/playlist` - Show now playing list
 - `/current` - Show now playing
 - `/song <song name>` - download songs you want quickly
-- `/search <query>` - search videos on youtube with details
+- `/yts <query>` - search videos on youtube with details
 - `/deezer <song name>` - download songs you want quickly via deezer
 - `/saavn <song name>` - download songs you want quickly via saavn
 - `/video <song name>` - download videos you want quickly
@@ -51,13 +51,4 @@
 
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGenRobot) Or [Pyrogram](ahavaleka.com) to get pyrogram string session
 
-### Credits
-- [𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖 •••](https://github.comPrabhasha-p): Edor
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
-- [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo owners](https://github.com/suprojects/CallsMusic)
+
