@@ -28,7 +28,7 @@ BOT_NAME = getenv("BOT_NAME")
 admins = {}
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
-BG_IMG = getenv("BG_IMG")
+BG_IMAGE = getenv("BG_IMAGE")
 UPDATE_CHANNEL = getenv("UPDATE_CHANNEL")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT")
 
