@@ -34,6 +34,11 @@
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
       "value": "10"
+    },
+    "BG_IMAGE": {
+      "description": "Background Image For Playing Menu.",
+      "required": true,
+      "value": "https://telegra.ph/file/6d0949b01e2a400fbfeff.png"
     }
   }
 }
